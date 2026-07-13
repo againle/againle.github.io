@@ -43,7 +43,7 @@ permalink: /publications/
         <em>IEEE International Conference on Big Data 2025</em>
     </div>
     <div class="pub-links">
-        <a href="https://arxiv.org/abs/2601.18517">PDF</a>
+        <a href="https://arxiv.org/abs/2601.18517">arXiv</a>
     </div>
     <div style="font-size:0.9rem; color:#5a5a5a; margin-top:0.3rem;">
         Developed an LLM-based simulation system for social work field education with real-time feedback capabilities.
