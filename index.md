@@ -15,7 +15,6 @@ Use the navigation above to explore my:
 - 📁 [Projects](/projects) — Open-source tools and experiments
 - 📓 [Notebook](/notebook) — Independent thoughts and reading notes
 
-Feel free to reach out via the [Contact](/contact) page.
 
 ---
 

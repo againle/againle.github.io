@@ -36,6 +36,3 @@ Brief description.
 
 ---
 
-## Collaboration
-
-I am open to interdisciplinary collaborations. Please reach out via [Contact](/contact).
