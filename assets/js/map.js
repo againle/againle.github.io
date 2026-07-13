@@ -14,35 +14,91 @@ var locations = [
         lat: 22.3193,
         lng: 114.1694,
         emoji: "🏙️",
-        review: "Home base. A city that never stops teaching me something new — from Cantonese to the density of ideas in a tiny apartment."
+        review: "University life at HKU. The city is a blend of East and West, tradition and modernity. Hate the crowds, but love the energy."
     },
     {
         name: "Singapore",
         lat: 1.3521,
         lng: 103.8198,
         emoji: "🌴",
-        review: "Spent time at NUS working on LLM editing. The humidity matches the intensity of the research culture. Loved the hawker centers."
+        review: "Exchange semester at NUS. The campus is beautiful, and the city-state is a model of efficiency and cleanliness. Boring at times."
     },
     {
         name: "Beijing",
         lat: 39.9042,
         lng: 116.4074,
         emoji: "🏯",
-        review: "A city of layers — ancient and futuristic. The mathematics community here is vibrant and deeply connected."
+        review: "Capital of China. A city of layers — ancient and futuristic."
     },
     {
         name: "London",
         lat: 51.5074,
         lng: -0.1278,
         emoji: "☕",
-        review: "UK study tour with HKU Innovation Academy. Visited Imperial, UCL, and King's. The conversations on AI policy were unforgettable."
+        review: "UK study tour with HKU Innovation Academy. Visited Imperial, UCL, and King's. Ancient but elegant. Special London taste in the air."
     },
     {
         name: "Tengger Desert, Inner Mongolia",
         lat: 38.5000,
         lng: 105.0000,
         emoji: "🏜️",
-        review: "Service trip with HKU Cedars and YMCA. Sleeping in a yurt, planting trees in sand, and realizing how fragile ecosystems really are."
+        review: "Service trip with HKU Cedars and YMCA. Sleeping in a yurt, planting trees in sand. That's nature and life."
+    },
+    {
+        name: "Tokyo",
+        lat: 35.6762,
+        lng: 139.6503,
+        emoji: "🗼",
+        review: "Visited for a short trip. The city is a mix of tradition and cutting-edge technology. A place of Mono no aware. Inspiring sunshine."
+    },
+    {
+        name: "Seoul",
+        lat: 37.5665,
+        lng: 126.9780,
+        emoji: "🍲",
+        review: "Visited for a short trip. Delecated to K-pop and Korean culture. Small streets and vibrant nightlife."
+    },
+    {
+        name: "Taipei",
+        lat: 25.0330,
+        lng: 121.5654,
+        emoji: "🛵",
+        review: "A trip to Taiwan. The city is lively, with night markets and street food. Warm accents and friendly people that I miss."
+    },
+    {
+        name: "Shenzheng",
+        lat: 22.5431,
+        lng: 114.0579,
+        emoji: "🏢",
+        review: "A third home. Fill me with food and cheap goods. A place of innovation and to escape from the crowds of Hong Kong."
+    },
+    {
+        name: "Guangzhou",
+        lat: 23.1291,
+        lng: 113.2644,
+        emoji: "🍜",
+        review: "Cantonese culture that cultivates my taste buds and growth."
+    },
+    {
+        name: "Foshan",
+        lat: 23.0215,
+        lng: 113.1214,
+        emoji: "🏯",
+        review: "Hometown"
+    },
+    {
+        name: "Nanjing",
+        lat: 32.0603,
+        lng: 118.7969,
+        emoji: "🏯",
+        review: "LOVE"
+    },
+    {
+        name: "Bangkok",
+        lat: 13.7563,
+        lng: 100.5018,
+        emoji: "🌴",
+        review: "A short trip to Thailand. Special places and food. A chaotic city."
     }
 ];
 
