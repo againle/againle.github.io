@@ -6,12 +6,6 @@ permalink: /cv/
 
 # Curriculum Vitae
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.5rem;">
-  <span style="font-size: 0.95rem; color: var(--meta-text, #5a5a5a);">
-    Two versions available — choose the one that fits your context.
-  </span>
-</div>
-
 <div style="display: flex; flex-wrap: wrap; gap: 1.2rem; margin-bottom: 2rem;">
 
   <!-- 学术版 CV -->
@@ -57,8 +51,8 @@ permalink: /cv/
 B.Sc. in Mathematics and Computer Science (Double Major)  
 *Sep 2023 – Jun 2027 (Expected)*
 
-- CGPA: 3.83/4.3 | Dean's Honours List: 2023–2024, 2024–2025
-- Exchange at **National University of Singapore** (Jan – May 2026) | Tang Pak Kau Scholarship
+- CGPA: 3.83/4.3 (Dean's Honours List: 2023–2024, 2024–2025)
+- Exchange at **National University of Singapore** (Jan – May 2026) (Tang Pak Kau Scholarship)
 
 
 ## Awards
