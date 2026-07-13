@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-# 📁 Projects
+# Projects
 
 ## SWITCH Project — LLM for Social Work
 

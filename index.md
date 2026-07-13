@@ -14,9 +14,9 @@ I approach these questions through **optimization theory**, **statistical learni
 
 ## Research Interests
 
-- Optimization Theory & Representation Learning
-- Foundation Models & LLM Systems
-- Explainable & Reliable AI
+- Statistical Representation Learning & Mathematical Foundations
+- Next-Generation AI Systems
+- Reliable & Interpretable AI
 - AI for Social Impact
 - Quantitative Finance with AI
 

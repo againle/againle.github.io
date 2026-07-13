@@ -796,3 +796,53 @@ body.theme-dark {
     --future-title: #f0f6fc;
     --future-text: #b0b8c0;
 }
+
+/* ========================================
+   Publications — Status Badges
+   ======================================== */
+
+.pub-status {
+    display: inline-block;
+    font-size: 0.65rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    padding: 0.1rem 0.6rem;
+    border-radius: 12px;
+    margin-left: 0.5rem;
+    transition: background 0.3s ease, color 0.3s ease;
+}
+
+/* 默认主题 (棕黄) */
+:root {
+    --status-accepted-bg: #b8860b;
+    --status-accepted-text: #ffffff;
+    --status-review-bg: #e8a838;
+    --status-review-text: #ffffff;
+}
+
+.status-accepted {
+    background: var(--status-accepted-bg, #b8860b);
+    color: var(--status-accepted-text, #ffffff);
+}
+
+.status-review {
+    background: var(--status-review-bg, #e8a838);
+    color: var(--status-review-text, #ffffff);
+}
+
+/* 绿色主题 */
+body.theme-green {
+    --status-accepted-bg: #2d8f5c;
+    --status-accepted-text: #ffffff;
+    --status-review-bg: #4aad7a;
+    --status-review-text: #ffffff;
+}
+
+/* 深色主题 */
+body.theme-dark {
+    --status-accepted-bg: #58a6ff;
+    --status-accepted-text: #0d1117;
+    --status-review-bg: #79c0ff;
+    --status-review-text: #0d1117;
+}
