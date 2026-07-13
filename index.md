@@ -4,21 +4,29 @@ title: Home
 permalink: /
 ---
 
-# 👋 Welcome
+I am **Hongkai Liu**, a Mathematics and Computer Science double major at **The University of Hong Kong**. I work at the intersection of **theory and practice**—from mathematical foundations to deployed AI systems.
 
-I am **Hongkai Liu**, a Mathematics and Computer Science double major undergraduate at **The University of Hong Kong**. I am broadly interested in developing **reliable and interpretable artificial intelligence systems** through mathematical foundations, optimization, and statistical learning.
+Across my research and projects, I explore three interconnected threads:
 
-My research focuses on understanding the structure behind modern AI systems—how optimization algorithms shape learned representations, how mathematical structures emerge from high-dimensional data, and how AI-generated data can be analyzed through rigorous theoretical frameworks.
+- **How do learning systems acquire and represent knowledge?**
+- **What mathematical structures underlie modern AI?**
+- **How can we build reliable, interpretable, and impactful AI systems?**
+
+I approach these questions through diverse lenses: **optimization theory**, **statistical learning**, **foundation model architecture**, and **real-world deployment**—spanning fields from AI research to quantitative finance and social impact.
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
-- **Optimization and Data Representation**: Investigating optimization methods and mathematical structures underlying representation learning.
-- **Machine Learning and Statistics**: Studying statistical learning theory, generalization, uncertainty estimation, and mathematical foundations.
-- **AI Architecture and Algorithms**: Exploring advanced AI architectures, particularly LLMs, foundation models, and efficient learning systems.
-- **Explainable AI**: Investigating interpretable and trustworthy AI methods that reveal internal mechanisms of complex AI systems.
-- **Quantitative Finance with AI**: Exploring applications of mathematical modeling and machine learning in financial prediction and decision systems.
+A cross-section of my work:
+
+| Area | Focus |
+|------|-------|
+| **Optimization & Representation** | Mathematical structures in learning algorithms and high-dimensional data |
+| **Foundation Models & LLMs** | Model editing, knowledge modification, architecture design |
+| **Explainable & Reliable AI** | Interpretability, uncertainty, mathematical transparency |
+| **AI for Social Impact** | LLM-based systems for social work and education |
+| **Quantitative Finance** | Machine learning, optimization, and data-driven decision systems |
 
 ---
 
@@ -26,8 +34,8 @@ My research focuses on understanding the structure behind modern AI systems—ho
 
 - **2026**: Paper *"From Backward Spreading to Forward Replay: Revisiting Target Construction in LLM Parameter Editing"* accepted to **ICML 2026**.
 - **2025**: Paper *"GenAI for Social Work Field Education: Client Simulation with Real-Time Feedback"* presented at **IEEE Big Data 2025**.
-- **2025**: Completed **Summer Research Fellowship** at HKU Faculty of Science.
-- **2024–Present**: Team Leader & AI System Architect for **SWITCH Project**, HKU Innovation Wing.
+- **2025**: Completed **Summer Research Fellowship** at HKU.
+- **2024–Present**: Team Leader & AI System Architect, **SWITCH Project**, HKU Innovation Wing.
 
 ---
 
@@ -39,5 +47,3 @@ My research focuses on understanding the structure behind modern AI systems—ho
 - **CGPA**: 3.83/4.3
 - **Dean's Honours List**: 2023–2024, 2024–2025
 - **Tang Pak Kau Scholarship**
-
-[Learn more about my research →](/research)
