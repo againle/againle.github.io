@@ -51,18 +51,17 @@
 // 汉堡菜单切换
 // ========================================
 (function() {
-    const toggle = document.getElementById('nav-toggle');
-    const nav = document.getElementById('site-nav');
+    var toggle = document.getElementById('nav-toggle');
+    var nav = document.getElementById('site-nav');
     
     if (toggle && nav) {
-        // 点击汉堡按钮切换菜单
         toggle.addEventListener('click', function(e) {
             e.stopPropagation();
             toggle.classList.toggle('active');
             nav.classList.toggle('open');
         });
         
-        // 点击菜单中的任意链接 → 自动关闭菜单
+        // 点击菜单链接 → 自动关闭
         nav.querySelectorAll('a').forEach(function(link) {
             link.addEventListener('click', function() {
                 toggle.classList.remove('active');
@@ -78,9 +77,9 @@
             }
         });
         
-        // 窗口 resize 到桌面端时，确保菜单关闭
+        // 窗口放大到桌面端时 → 关闭菜单
         window.addEventListener('resize', function() {
-            if (window.innerWidth > 768) {
+            if (window.innerWidth > 820) {
                 toggle.classList.remove('active');
                 nav.classList.remove('open');
             }
