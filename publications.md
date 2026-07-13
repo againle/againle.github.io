@@ -50,6 +50,6 @@ permalink: /publications/
     </div>
 </div>
 
----
+<!-- ---
 
-<!-- *Full publication list available in my <a href="{{ '/files/cv.pdf' | relative_url }}" target="_blank">CV (PDF)</a>.* -->
+*Full publication list available in my <a href="{{ '/files/cv.pdf' | relative_url }}" target="_blank">CV (PDF)</a>.* -->

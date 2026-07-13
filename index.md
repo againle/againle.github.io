@@ -20,7 +20,7 @@ I approach these questions through **optimization theory**, **statistical learni
 - AI for Social Impact
 - Quantitative Finance with AI
 
----
+<!-- ---
 
 ## Selected Highlights
 
@@ -29,4 +29,4 @@ I approach these questions through **optimization theory**, **statistical learni
 - **iCANX Innovation Award 2025**
 - **Dean's Honours List** 2023–2024, 2024–2025
 
----
+--- -->

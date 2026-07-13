@@ -4,83 +4,30 @@ title: CV
 permalink: /cv/
 ---
 
-# 📎 Curriculum Vitae
+# Curriculum Vitae
+
+A comprehensive record of my education, research experience, publications, and awards is available in the PDF below.
 
 <a href="{{ '/files/cv.pdf' | relative_url }}" target="_blank" 
-   style="display: inline-block; background: #b8860b; color: #fff; padding: 0.6rem 1.8rem; border-radius: 6px; font-weight: 500; border: none; cursor: pointer;">
-    📄 Download CV (PDF)
-</a>
+   style="display: inline-block; font-size: 0.8rem; font-weight: 500; padding: 0.25rem 1.2rem; border: 1.5px solid var(--link-color, #b8860b); border-radius: 20px; color: var(--link-color, #b8860b); background: transparent; text-decoration: none;"
+   onmouseover="this.style.background='var(--link-color, #b8860b)'; this.style.color='#fff';"
+   onmouseout="this.style.background='transparent'; this.style.color='var(--link-color, #b8860b)';">Download PDF</a>
 
 ---
 
 ## Education
 
-**The University of Hong Kong** — B.Sc. in Mathematics and Computer Science (Double Major)  
+**The University of Hong Kong**  
+B.Sc. in Mathematics and Computer Science (Double Major)  
 *Sep 2023 – Jun 2027 (Expected)*
 
-- **CGPA**: 3.83/4.3
-- **Dean's Honours List**: 2023–2024, 2024–2025
-- **Tang Pak Kau Scholarship**
-
-**Relevant Coursework**:
-- **Mathematics**: Real Analysis, Complex Analysis, Functional Analysis, Algebra, Probability Theory, Fourier Analysis and Approximation
-- **Computer Science**: Algorithms, Optimization, Computer Vision, Robotics, Network Models in Operational Research
+- CGPA: 3.83/4.3
+- Dean's Honours List: 2023–2024, 2024–2025
+- Tang Pak Kau Scholarship
 
 ---
 
-## Research Experience
-
-### Student Research Assistant
-*School of Computing, National University of Singapore*  
-*Jan 2026 – May 2026*  
-*Supervisor: Prof. Lee Wee Sun*
-
-- Conducted research on LLM parameter editing and knowledge modification.
-- Designed and evaluated experimental frameworks for understanding model editing mechanisms.
-- Developed reproducible pipelines for benchmarking LLM editing algorithms.
-- Investigated relationships between knowledge representation, model behavior, and editing effectiveness.
-- Contributed implementation and experimental components to the EasyEdit open-source repository.
-
-### Student Research Assistant — SWITCH Project
-*Team Leader & AI System Architect*  
-*Innovation Wing, Faculty of Engineering, HKU*  
-*Oct 2024 – Present*
-
-- Served as team leader and principal AI system architect responsible for the overall technical direction.
-- Designed an LLM-based AI system for social work applications.
-- Led the complete development pipeline: system architecture, data preparation, model adaptation, evaluation, and deployment.
-- Developed domain-specific AI solutions through fine-tuning, prompt optimization, and model evaluation.
-- Coordinated interdisciplinary collaboration between computer science and social work professionals.
-- Selected as a featured innovation project in HKU annual publication/booklet.
-
-### Summer Research Fellowship
-*Faculty of Science, HKU*  
-*Jun 2025 – Sep 2025*
-
-- Conducted mathematical research on optimization methods in machine learning.
-- Studied theoretical properties of optimization algorithms and their influence on statistical learning performance.
-- Prepared mathematical research reports using LaTeX.
-
----
-
-## Publications
-
-1. **Liu, W., Liu, H., et al.** (2026). *From Backward Spreading to Forward Replay: Revisiting Target Construction in LLM Parameter Editing.* Accepted at ICML 2026.
-
-2. **Liu, W., Xu, H., Liu, H., et al.** (2026). *Are We Evaluating the Specificity of LLM Model Editing Properly?* Under Review.
-
-3. **Sungarda, J., Liu, H., et al.** (2025). *GenAI for Social Work Field Education: Client Simulation with Real-Time Feedback.* IEEE International Conference on Big Data 2025.
-
----
-
-## Technical Skills
-
-- **Programming**: Python, C++, SQL, Git, Linux, LaTeX
-- **Languages**: Mandarin (Native), Cantonese (Native), English (IELTS 8.0)
-
----
-
-## Awards
+## Selected Awards
 
 - **iCANX Innovation Award** (2025)
 - **Dean's Honours List** (2023–2024, 2024–2025)
@@ -88,10 +35,44 @@ permalink: /cv/
 
 ---
 
-## Independent Research
+## Activities
 
-Maintained an independent research portfolio documenting advanced mathematics, machine learning, AI, and quantitative finance studies:
+**UK Study Tour, Innovation Academy, HKU**  
+*Oct 2025*
 
-- **Mathematical Foundations**: Real/Complex Analysis, Functional Analysis, Probability Theory, Statistical Inference, Optimization Theory, Convex Analysis
-- **Machine Learning & AI**: Statistical Learning Theory, Deep Learning, Representation Learning, LLMs, Explainable AI, AI Reliability
-- **Quantitative Finance**: Mathematical Finance, Stochastic Processes, Financial Modeling, Algorithmic Trading
+- Visited schools and universities in the UK to explore contemporary innovation and design practices.
+- Engaged with leading professors on cutting-edge research and development.
+
+**Banker To Be Club Membership**  
+*2024*
+
+- Gained professional knowledge in finance and private equity.
+- Developed communication skills through direct interaction with financial practitioners.
+
+**China Desert Service Trip, HKU Cedars & Chinese YMCA of Hong Kong**  
+*Jul 2024*
+
+- Participated in environmental service activities in the Tengger Desert.
+- Collaborated with teammates from Macau and Taiwan, strengthening cross-cultural communication and cooperation skills.
+
+**Local Language Internship for Non-Cantonese Students, HKU Cedars**  
+*Jun – Jul 2024*
+
+- Served at Po Shek Wu Neighbourhood Elderly Centre.
+- Facilitated communication and cooperation between diverse community groups.
+
+---
+
+## Languages
+
+- **Mandarin**: Native
+- **Cantonese**: Native
+- **English**: Fluent (IELTS 8.0)
+
+---
+
+For research experience, publications, and projects, please refer to:
+
+- [Research](/research) — research positions and ongoing work
+- [Publications](/publications) — full list of papers
+- [Projects](/projects) — systems, open-source, and documentation

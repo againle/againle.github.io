@@ -1,8 +1,8 @@
 # 站点基本信息
-title: "Hongkai Liu · Academic Profile"
+title: "Hongkai Liu · Profile"
 email: u3612776@connect.hku.hk
 description: >-
-  Personal academic website of Hongkai Liu — Mathematics and Computer Science researcher
+  Personal website of Hongkai Liu — Mathematics and Computer Science researcher
   working on reliable and interpretable AI systems through mathematical foundations,
   optimization, and statistical learning.
 baseurl: ""  # 如果是子路径，改为 "/xxx"
